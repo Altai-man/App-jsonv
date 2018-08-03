@@ -8,7 +8,7 @@
     "source-url" : "git://github.com/Miniconf/App-jsonv.git",
     "depends" : [ "JSON::Tiny" ],
     "provides" : {
-      "jsonv" : "App-jsonv/bin/jsonv"
+        "jsonv" : "bin/jsonv"
     }
 }
 
